@@ -1,0 +1,10 @@
+C:\Users\IRMAK\source\repos\SpaceWar\SpaceWar\obj\Debug\SpaceWar.csproj.AssemblyReference.cache
+C:\Users\IRMAK\source\repos\SpaceWar\SpaceWar\obj\Debug\SpaceWar.SpaceWar.resources
+C:\Users\IRMAK\source\repos\SpaceWar\SpaceWar\obj\Debug\SpaceWar.Properties.Resources.resources
+C:\Users\IRMAK\source\repos\SpaceWar\SpaceWar\obj\Debug\SpaceWar.csproj.GenerateResource.cache
+C:\Users\IRMAK\source\repos\SpaceWar\SpaceWar\obj\Debug\SpaceWar.csproj.CoreCompileInputs.cache
+C:\Users\IRMAK\source\repos\SpaceWar\SpaceWar\bin\Debug\SpaceWar.exe.config
+C:\Users\IRMAK\source\repos\SpaceWar\SpaceWar\bin\Debug\SpaceWar.exe
+C:\Users\IRMAK\source\repos\SpaceWar\SpaceWar\bin\Debug\SpaceWar.pdb
+C:\Users\IRMAK\source\repos\SpaceWar\SpaceWar\obj\Debug\SpaceWar.exe
+C:\Users\IRMAK\source\repos\SpaceWar\SpaceWar\obj\Debug\SpaceWar.pdb

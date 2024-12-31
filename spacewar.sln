@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spacewar.BusinessLogicLayer", "spacewar.BusinessLogicLayer\spacewar.BusinessLogicLayer.csproj", "{3019F4E7-2884-4274-97E6-930C79170EF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spacewar.PresentationLayer", "spacewar.PresentationLayer\spacewar.PresentationLayer.csproj", "{8FE292A4-83B5-4310-937A-4C156BD61085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3019F4E7-2884-4274-97E6-930C79170EF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3019F4E7-2884-4274-97E6-930C79170EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3019F4E7-2884-4274-97E6-930C79170EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3019F4E7-2884-4274-97E6-930C79170EF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FE292A4-83B5-4310-937A-4C156BD61085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE292A4-83B5-4310-937A-4C156BD61085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE292A4-83B5-4310-937A-4C156BD61085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE292A4-83B5-4310-937A-4C156BD61085}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

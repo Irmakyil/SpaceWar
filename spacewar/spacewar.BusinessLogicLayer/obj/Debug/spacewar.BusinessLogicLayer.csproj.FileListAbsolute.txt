@@ -1,0 +1,12 @@
+C:\Users\Ataberk\source\repos\spacewar\spacewar.BusinessLogicLayer\bin\Debug\spacewar.BusinessLogicLayer.dll
+C:\Users\Ataberk\source\repos\spacewar\spacewar.BusinessLogicLayer\bin\Debug\spacewar.BusinessLogicLayer.pdb
+C:\Users\Ataberk\source\repos\spacewar\spacewar.BusinessLogicLayer\obj\Debug\spacewar.BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Ataberk\source\repos\spacewar\spacewar.BusinessLogicLayer\obj\Debug\spacewar.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ataberk\source\repos\spacewar\spacewar.BusinessLogicLayer\obj\Debug\spacewar.BusinessLogicLayer.dll
+C:\Users\Ataberk\source\repos\spacewar\spacewar.BusinessLogicLayer\obj\Debug\spacewar.BusinessLogicLayer.pdb
+C:\Users\IRMAK\Desktop\spacewar\spacewar\spacewar.BusinessLogicLayer\bin\Debug\spacewar.BusinessLogicLayer.dll
+C:\Users\IRMAK\Desktop\spacewar\spacewar\spacewar.BusinessLogicLayer\bin\Debug\spacewar.BusinessLogicLayer.pdb
+C:\Users\IRMAK\Desktop\spacewar\spacewar\spacewar.BusinessLogicLayer\obj\Debug\spacewar.BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\IRMAK\Desktop\spacewar\spacewar\spacewar.BusinessLogicLayer\obj\Debug\spacewar.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\IRMAK\Desktop\spacewar\spacewar\spacewar.BusinessLogicLayer\obj\Debug\spacewar.BusinessLogicLayer.dll
+C:\Users\IRMAK\Desktop\spacewar\spacewar\spacewar.BusinessLogicLayer\obj\Debug\spacewar.BusinessLogicLayer.pdb

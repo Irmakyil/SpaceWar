@@ -1,0 +1,16 @@
+C:\Users\Ataberk\source\repos\spacewar\spacewar.PresentationLayer\bin\Debug\spacewar.PresentationLayer.exe.config
+C:\Users\Ataberk\source\repos\spacewar\spacewar.PresentationLayer\bin\Debug\spacewar.PresentationLayer.exe
+C:\Users\Ataberk\source\repos\spacewar\spacewar.PresentationLayer\bin\Debug\spacewar.PresentationLayer.pdb
+C:\Users\Ataberk\source\repos\spacewar\spacewar.PresentationLayer\bin\Debug\spacewar.BusinessLogicLayer.dll
+C:\Users\Ataberk\source\repos\spacewar\spacewar.PresentationLayer\bin\Debug\spacewar.BusinessLogicLayer.pdb
+C:\Users\Ataberk\source\repos\spacewar\spacewar.PresentationLayer\obj\Debug\spacewar.PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Ataberk\source\repos\spacewar\spacewar.PresentationLayer\obj\Debug\spacewar.PresentationLayer.GameForm.resources
+C:\Users\Ataberk\source\repos\spacewar\spacewar.PresentationLayer\obj\Debug\spacewar.PresentationLayer.Properties.Resources.resources
+C:\Users\Ataberk\source\repos\spacewar\spacewar.PresentationLayer\obj\Debug\spacewar.PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Ataberk\source\repos\spacewar\spacewar.PresentationLayer\obj\Debug\spacewar.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ataberk\source\repos\spacewar\spacewar.PresentationLayer\obj\Debug\spacewar.08F70974.Up2Date
+C:\Users\Ataberk\source\repos\spacewar\spacewar.PresentationLayer\obj\Debug\spacewar.PresentationLayer.exe
+C:\Users\Ataberk\source\repos\spacewar\spacewar.PresentationLayer\obj\Debug\spacewar.PresentationLayer.pdb
+C:\Users\IRMAK\Desktop\spacewar\spacewar\spacewar.PresentationLayer\obj\Debug\spacewar.PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\IRMAK\Desktop\spacewar\spacewar\spacewar.PresentationLayer\obj\Debug\spacewar.PresentationLayer.exe
+C:\Users\IRMAK\Desktop\spacewar\spacewar\spacewar.PresentationLayer\obj\Debug\spacewar.PresentationLayer.pdb

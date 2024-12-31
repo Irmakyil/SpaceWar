@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IRMAK\\source\\repos\\spacewar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE292A4-83B5-4310-937A-4C156BD61085}|spacewar.PresentationLayer\\spacewar.PresentationLayer.csproj|c:\\users\\irmak\\source\\repos\\spacewar\\spacewar.presentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE292A4-83B5-4310-937A-4C156BD61085}|spacewar.PresentationLayer\\spacewar.PresentationLayer.csproj|solutionrelative:spacewar.presentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3019F4E7-2884-4274-97E6-930C79170EF5}|spacewar.BusinessLogicLayer\\spacewar.BusinessLogicLayer.csproj|C:\\Users\\IRMAK\\source\\repos\\spacewar\\spacewar.businesslogiclayer\\utilities\\collisiondetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3019F4E7-2884-4274-97E6-930C79170EF5}|spacewar.BusinessLogicLayer\\spacewar.BusinessLogicLayer.csproj|solutionrelative:spacewar.businesslogiclayer\\utilities\\collisiondetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3019F4E7-2884-4274-97E6-930C79170EF5}|spacewar.BusinessLogicLayer\\spacewar.BusinessLogicLayer.csproj|C:\\Users\\IRMAK\\source\\repos\\spacewar\\spacewar.businesslogiclayer\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3019F4E7-2884-4274-97E6-930C79170EF5}|spacewar.BusinessLogicLayer\\spacewar.BusinessLogicLayer.csproj|solutionrelative:spacewar.businesslogiclayer\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3019F4E7-2884-4274-97E6-930C79170EF5}|spacewar.BusinessLogicLayer\\spacewar.BusinessLogicLayer.csproj|C:\\Users\\IRMAK\\source\\repos\\spacewar\\spacewar.businesslogiclayer\\enemies\\bossenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3019F4E7-2884-4274-97E6-930C79170EF5}|spacewar.BusinessLogicLayer\\spacewar.BusinessLogicLayer.csproj|solutionrelative:spacewar.businesslogiclayer\\enemies\\bossenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3019F4E7-2884-4274-97E6-930C79170EF5}|spacewar.BusinessLogicLayer\\spacewar.BusinessLogicLayer.csproj|C:\\Users\\IRMAK\\source\\repos\\spacewar\\spacewar.businesslogiclayer\\enemies\\strongenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3019F4E7-2884-4274-97E6-930C79170EF5}|spacewar.BusinessLogicLayer\\spacewar.BusinessLogicLayer.csproj|solutionrelative:spacewar.businesslogiclayer\\enemies\\strongenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3019F4E7-2884-4274-97E6-930C79170EF5}|spacewar.BusinessLogicLayer\\spacewar.BusinessLogicLayer.csproj|C:\\Users\\IRMAK\\source\\repos\\spacewar\\spacewar.businesslogiclayer\\enemies\\fastenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3019F4E7-2884-4274-97E6-930C79170EF5}|spacewar.BusinessLogicLayer\\spacewar.BusinessLogicLayer.csproj|solutionrelative:spacewar.businesslogiclayer\\enemies\\fastenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3019F4E7-2884-4274-97E6-930C79170EF5}|spacewar.BusinessLogicLayer\\spacewar.BusinessLogicLayer.csproj|C:\\Users\\IRMAK\\source\\repos\\spacewar\\spacewar.businesslogiclayer\\enemies\\basicenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3019F4E7-2884-4274-97E6-930C79170EF5}|spacewar.BusinessLogicLayer\\spacewar.BusinessLogicLayer.csproj|solutionrelative:spacewar.businesslogiclayer\\enemies\\basicenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3019F4E7-2884-4274-97E6-930C79170EF5}|spacewar.BusinessLogicLayer\\spacewar.BusinessLogicLayer.csproj|C:\\Users\\IRMAK\\source\\repos\\spacewar\\spacewar.businesslogiclayer\\enemies\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3019F4E7-2884-4274-97E6-930C79170EF5}|spacewar.BusinessLogicLayer\\spacewar.BusinessLogicLayer.csproj|solutionrelative:spacewar.businesslogiclayer\\enemies\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3019F4E7-2884-4274-97E6-930C79170EF5}|spacewar.BusinessLogicLayer\\spacewar.BusinessLogicLayer.csproj|C:\\Users\\IRMAK\\source\\repos\\spacewar\\spacewar.businesslogiclayer\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3019F4E7-2884-4274-97E6-930C79170EF5}|spacewar.BusinessLogicLayer\\spacewar.BusinessLogicLayer.csproj|solutionrelative:spacewar.businesslogiclayer\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3019F4E7-2884-4274-97E6-930C79170EF5}|spacewar.BusinessLogicLayer\\spacewar.BusinessLogicLayer.csproj|C:\\Users\\IRMAK\\source\\repos\\spacewar\\spacewar.businesslogiclayer\\spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3019F4E7-2884-4274-97E6-930C79170EF5}|spacewar.BusinessLogicLayer\\spacewar.BusinessLogicLayer.csproj|solutionrelative:spacewar.businesslogiclayer\\spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BossEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\IRMAK\\source\\repos\\spacewar\\spacewar.BusinessLogicLayer\\Enemies\\BossEnemy.cs",
+              "RelativeDocumentMoniker": "spacewar.BusinessLogicLayer\\Enemies\\BossEnemy.cs",
+              "ToolTip": "C:\\Users\\IRMAK\\source\\repos\\spacewar\\spacewar.BusinessLogicLayer\\Enemies\\BossEnemy.cs",
+              "RelativeToolTip": "spacewar.BusinessLogicLayer\\Enemies\\BossEnemy.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T10:10:34.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StrongEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\IRMAK\\source\\repos\\spacewar\\spacewar.BusinessLogicLayer\\Enemies\\StrongEnemy.cs",
+              "RelativeDocumentMoniker": "spacewar.BusinessLogicLayer\\Enemies\\StrongEnemy.cs",
+              "ToolTip": "C:\\Users\\IRMAK\\source\\repos\\spacewar\\spacewar.BusinessLogicLayer\\Enemies\\StrongEnemy.cs",
+              "RelativeToolTip": "spacewar.BusinessLogicLayer\\Enemies\\StrongEnemy.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:28:00.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FastEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\IRMAK\\source\\repos\\spacewar\\spacewar.BusinessLogicLayer\\Enemies\\FastEnemy.cs",
+              "RelativeDocumentMoniker": "spacewar.BusinessLogicLayer\\Enemies\\FastEnemy.cs",
+              "ToolTip": "C:\\Users\\IRMAK\\source\\repos\\spacewar\\spacewar.BusinessLogicLayer\\Enemies\\FastEnemy.cs",
+              "RelativeToolTip": "spacewar.BusinessLogicLayer\\Enemies\\FastEnemy.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T10:10:32.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BasicEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\IRMAK\\source\\repos\\spacewar\\spacewar.BusinessLogicLayer\\Enemies\\BasicEnemy.cs",
+              "RelativeDocumentMoniker": "spacewar.BusinessLogicLayer\\Enemies\\BasicEnemy.cs",
+              "ToolTip": "C:\\Users\\IRMAK\\source\\repos\\spacewar\\spacewar.BusinessLogicLayer\\Enemies\\BasicEnemy.cs",
+              "RelativeToolTip": "spacewar.BusinessLogicLayer\\Enemies\\BasicEnemy.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:43:17.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\IRMAK\\source\\repos\\spacewar\\spacewar.BusinessLogicLayer\\Game.cs",
+              "RelativeDocumentMoniker": "spacewar.BusinessLogicLayer\\Game.cs",
+              "ToolTip": "C:\\Users\\IRMAK\\source\\repos\\spacewar\\spacewar.BusinessLogicLayer\\Game.cs",
+              "RelativeToolTip": "spacewar.BusinessLogicLayer\\Game.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAswDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T09:24:15.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\IRMAK\\source\\repos\\spacewar\\spacewar.BusinessLogicLayer\\Bullet.cs",
+              "RelativeDocumentMoniker": "spacewar.BusinessLogicLayer\\Bullet.cs",
+              "ToolTip": "C:\\Users\\IRMAK\\source\\repos\\spacewar\\spacewar.BusinessLogicLayer\\Bullet.cs",
+              "RelativeToolTip": "spacewar.BusinessLogicLayer\\Bullet.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:19:28.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollisionDetector.cs",
+              "DocumentMoniker": "C:\\Users\\IRMAK\\source\\repos\\spacewar\\spacewar.BusinessLogicLayer\\Utilities\\CollisionDetector.cs",
+              "RelativeDocumentMoniker": "spacewar.BusinessLogicLayer\\Utilities\\CollisionDetector.cs",
+              "ToolTip": "C:\\Users\\IRMAK\\source\\repos\\spacewar\\spacewar.BusinessLogicLayer\\Utilities\\CollisionDetector.cs",
+              "RelativeToolTip": "spacewar.BusinessLogicLayer\\Utilities\\CollisionDetector.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:38:50.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\IRMAK\\source\\repos\\spacewar\\spacewar.BusinessLogicLayer\\Enemies\\Enemy.cs",
+              "RelativeDocumentMoniker": "spacewar.BusinessLogicLayer\\Enemies\\Enemy.cs",
+              "ToolTip": "C:\\Users\\IRMAK\\source\\repos\\spacewar\\spacewar.BusinessLogicLayer\\Enemies\\Enemy.cs",
+              "RelativeToolTip": "spacewar.BusinessLogicLayer\\Enemies\\Enemy.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:43:05.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\IRMAK\\source\\repos\\spacewar\\spacewar.PresentationLayer\\Form1.cs",
+              "RelativeDocumentMoniker": "spacewar.PresentationLayer\\Form1.cs",
+              "ToolTip": "C:\\Users\\IRMAK\\source\\repos\\spacewar\\spacewar.PresentationLayer\\Form1.cs",
+              "RelativeToolTip": "spacewar.PresentationLayer\\Form1.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAwP4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T13:19:03.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Spaceship.cs",
+              "DocumentMoniker": "C:\\Users\\IRMAK\\source\\repos\\spacewar\\spacewar.BusinessLogicLayer\\Spaceship.cs",
+              "RelativeDocumentMoniker": "spacewar.BusinessLogicLayer\\Spaceship.cs",
+              "ToolTip": "C:\\Users\\IRMAK\\source\\repos\\spacewar\\spacewar.BusinessLogicLayer\\Spaceship.cs",
+              "RelativeToolTip": "spacewar.BusinessLogicLayer\\Spaceship.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAywCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:19:58.981Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
