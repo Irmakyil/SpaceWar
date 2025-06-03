@@ -4,13 +4,13 @@ A 2D space shooter game built with C# and Windows Forms. Control your spaceship,
 Developed as part of a programming course project to explore game logic and GUI programming with WinForms.
 
 ---
-# Gameplay
+Gameplay
 - Control your spaceship using the arrow keys.
 - Press `Space` to shoot bullets.
 - Destroy enemy ships before they reach you.
 - The game ends when your ship collides with an enemy.
 ---
-# Features
+Features
 - Shooting mechanism with bullet objects
 - Random enemy ship spawning
 - Collision detection between bullets and enemies
@@ -18,7 +18,7 @@ Developed as part of a programming course project to explore game logic and GUI 
 - Basic sprite visuals using `PictureBox` controls
 - Game loop managed by a `Timer` event
 ---
-# Controls
+Controls
 
 | Key        | Action           |
 |------------|------------------|
@@ -26,7 +26,7 @@ Developed as part of a programming course project to explore game logic and GUI 
 | `Space`    | Fire bullet       |
 
 ---
-# Tech Stack
+Tech Stack
 
 | Technology     | Purpose                      |
 |----------------|------------------------------|
